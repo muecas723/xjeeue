@@ -1,1 +1,13 @@
-
+{
+  "private_key": "CKwozD2BTopoRqC3QAHd7EsuhLw4g9/QzziC1q46sVo=",
+  "address": "100.94.51.48",
+  "address_mask": 32,
+  "address_v6": "fd54:4::6b22:85e4:dbcf:273e",
+  "address_v6_mask": 128,
+  "dns": "10.255.255.4",
+  "public_key": "md4drvl8I1VnIAIfUnvEQYd8QRUVk7NC3gLE2+Eu20M=",
+  "preshared_key": "ux4aB2lRvlS+mHj1KXb47p4Mi7KvEjEtzLvJpyFJ4XY=",
+  "endpoint": "scl-373-wg.whiskergalaxy.com:443",
+  "allowed_ipv4": "0.0.0.0/0",
+  "allowed_ipv6": "::/0"
+}
